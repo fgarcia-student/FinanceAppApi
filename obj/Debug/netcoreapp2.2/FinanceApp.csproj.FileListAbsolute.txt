@@ -1,0 +1,14 @@
+/Users/fg/projects/c#/FinanceApp/bin/Debug/netcoreapp2.2/FinanceApp.deps.json
+/Users/fg/projects/c#/FinanceApp/bin/Debug/netcoreapp2.2/FinanceApp.runtimeconfig.json
+/Users/fg/projects/c#/FinanceApp/bin/Debug/netcoreapp2.2/FinanceApp.runtimeconfig.dev.json
+/Users/fg/projects/c#/FinanceApp/bin/Debug/netcoreapp2.2/FinanceApp.dll
+/Users/fg/projects/c#/FinanceApp/bin/Debug/netcoreapp2.2/FinanceApp.pdb
+/Users/fg/projects/c#/FinanceApp/obj/Debug/netcoreapp2.2/FinanceApp.csprojAssemblyReference.cache
+/Users/fg/projects/c#/FinanceApp/obj/Debug/netcoreapp2.2/FinanceApp.csproj.CoreCompileInputs.cache
+/Users/fg/projects/c#/FinanceApp/obj/Debug/netcoreapp2.2/FinanceApp.RazorAssemblyInfo.cache
+/Users/fg/projects/c#/FinanceApp/obj/Debug/netcoreapp2.2/FinanceApp.RazorAssemblyInfo.cs
+/Users/fg/projects/c#/FinanceApp/obj/Debug/netcoreapp2.2/FinanceApp.AssemblyInfoInputs.cache
+/Users/fg/projects/c#/FinanceApp/obj/Debug/netcoreapp2.2/FinanceApp.AssemblyInfo.cs
+/Users/fg/projects/c#/FinanceApp/obj/Debug/netcoreapp2.2/FinanceApp.RazorTargetAssemblyInfo.cache
+/Users/fg/projects/c#/FinanceApp/obj/Debug/netcoreapp2.2/FinanceApp.dll
+/Users/fg/projects/c#/FinanceApp/obj/Debug/netcoreapp2.2/FinanceApp.pdb
