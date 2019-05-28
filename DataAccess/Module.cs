@@ -9,6 +9,7 @@ namespace FinanceApp.DataAccess
     {
       builder.RegisterType<TypeRepository>();
       builder.RegisterType<InputTemplateRepository>();
+      builder.RegisterType<InputRepository>();
     }
   }
 }

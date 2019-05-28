@@ -15,6 +15,7 @@ using FinanceApp.DataAccess.Utility;
 using AutoMapper;
 using Autofac;
 using FinanceApp.DataAccess;
+using FinanceApp.BusinessLogic;
 
 namespace FinanceApp
 {
@@ -39,6 +40,7 @@ namespace FinanceApp
     public void ConfigureContainer(ContainerBuilder builder)
     {
       builder.RegisterModule(new DataAccessModule());
+      builder.RegisterModule(new BusinessLogicModule());
     }
 
     // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
